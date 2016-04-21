@@ -10,7 +10,7 @@
 
 /*
 @shinetzh
-shis is a test
+this is a test change
 */
 
 HWND hDlg;
