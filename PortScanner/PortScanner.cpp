@@ -8,7 +8,10 @@
 #include "head.h"
 
 
-
+/*
+@shinetzh
+this is a test change
+*/
 
 HWND hDlg;
 SubThreadParam SParam;
